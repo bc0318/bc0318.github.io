@@ -26,9 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Strategic Management"
   location         : "Houston, TX"
-  employer         : 
-    name: "Rice University"
-    url: "https://business.rice.edu/"
+  employer         : "Rice University" & "https://business.rice.edu/"
   uri              : # 
   email            : "bc55@rice.edu" 
 
