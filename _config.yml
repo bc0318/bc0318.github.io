@@ -201,12 +201,12 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
-  data:
+  portfolio:
     output: false
     permalink: /:collection/:path/
   talks:
