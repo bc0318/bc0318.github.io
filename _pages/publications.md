@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Incoming..."
+title: ""
 permalink: /publications/
 author_profile: true
 ---
