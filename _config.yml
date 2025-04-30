@@ -7,9 +7,7 @@ owner:
   name: Baifu Chen
   avatar: bc0318.jpeg
   email: bc55@rice.edu
-  links:
-    - label: "cv"
-       url: https://bc0318.github.io/file/01_cv_v20250422.pdf
+  cv: https://bc0318.github.io/file/01_cv_v20250422.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # scholar: 
   # bilibili: 
